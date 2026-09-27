@@ -22,19 +22,19 @@
 
 <br>
 
-### ✨ What you get
+### What you get
 
 | Feature | What it does |
 | :-- | :-- |
-| 🎫 **Tickets your way** | Panels, forms, and [welcome messages](https://ticketcord.com/docs/configuration/welcome-messages), set up from the [dashboard](https://ticketcord.com/docs/dashboard/overview) |
-| 🧠 **AI that knows your product** | Answers from your [Knowledge Base](https://ticketcord.com/docs/ai/knowledge-base), with handoff to your staff when it matters |
-| 🧭 **Smart triage** | [Auto-Route](https://ticketcord.com/docs/ai/auto-routing), [Priority Detection](https://ticketcord.com/docs/ai/priority-detection), [Duplicate Detection](https://ticketcord.com/docs/ai/duplicate-detection), and [Translation](https://ticketcord.com/docs/ai/translation) |
-| 📊 **One inbox, real numbers** | A web inbox and [analytics](https://ticketcord.com/docs/dashboard/analytics) across all your bots |
-| ⌨️ **Discord native** | 30 [slash commands](https://ticketcord.com/docs/commands/overview) and a bot interface in 19 languages |
-| 🛡️ **Built for teams** | [SLA targets](https://ticketcord.com/docs/configuration/sla-management), [approval workflows](https://ticketcord.com/docs/configuration/approval-workflows), and [business hours](https://ticketcord.com/docs/configuration/business-hours) |
-| 🔌 **Connects to your stack** | Signed [webhooks](https://ticketcord.com/docs/integrations/webhooks) for Zapier, Make, Slack, or your own service, plus [Claude Code and Codex](https://ticketcord.com/docs/ai/mcp) over MCP |
+| **Tickets your way** | Panels, forms, and [welcome messages](https://ticketcord.com/docs/configuration/welcome-messages), set up from the [dashboard](https://ticketcord.com/docs/dashboard/overview) |
+| **AI that knows your product** | Answers from your [Knowledge Base](https://ticketcord.com/docs/ai/knowledge-base), with handoff to your staff when it matters |
+| **Smart triage** | [Auto-Route](https://ticketcord.com/docs/ai/auto-routing), [Priority Detection](https://ticketcord.com/docs/ai/priority-detection), [Duplicate Detection](https://ticketcord.com/docs/ai/duplicate-detection), and [Translation](https://ticketcord.com/docs/ai/translation) |
+| **One inbox, real numbers** | A web inbox and [analytics](https://ticketcord.com/docs/dashboard/analytics) across all your bots |
+| **Discord native** | 30 [slash commands](https://ticketcord.com/docs/commands/overview) and a bot interface in 19 languages |
+| **Built for teams** | [SLA targets](https://ticketcord.com/docs/configuration/sla-management), [approval workflows](https://ticketcord.com/docs/configuration/approval-workflows), and [business hours](https://ticketcord.com/docs/configuration/business-hours) |
+| **Connects to your stack** | Signed [webhooks](https://ticketcord.com/docs/integrations/webhooks) for Zapier, Make, Slack, or your own service, plus [Claude Code and Codex](https://ticketcord.com/docs/ai/mcp) over MCP |
 
-### 🚀 Get started
+### Get started
 
 **New here?** Follow the [Quick Start](https://ticketcord.com/docs/quickstart) and have a ticket panel running in about ten minutes.<br>
 **Switching bots?** The [Migration Guide](https://ticketcord.com/docs/support/migration) walks you through it.<br>
