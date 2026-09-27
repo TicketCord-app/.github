@@ -24,7 +24,7 @@
 
 ### ✨ What you get
 
-| | |
+| Feature | What it does |
 | :-- | :-- |
 | 🎫 **Tickets your way** | Panels, forms, and [welcome messages](https://ticketcord.com/docs/configuration/welcome-messages), set up from the [dashboard](https://ticketcord.com/docs/dashboard/overview) |
 | 🧠 **AI that knows your product** | Answers from your [Knowledge Base](https://ticketcord.com/docs/ai/knowledge-base), with handoff to your staff when it matters |
